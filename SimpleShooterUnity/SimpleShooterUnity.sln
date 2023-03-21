@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{af773824-00dc-5595-e8ce-e9c3dbc26ff4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullscreenEditor", "FullscreenEditor.csproj", "{22d97980-ac13-fa68-2054-0f5642556980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{df8aa49a-0dc6-25c9-be70-e576513c0c8c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{af773824-00dc-5595-e8ce-e9c3dbc26ff4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{af773824-00dc-5595-e8ce-e9c3dbc26ff4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22d97980-ac13-fa68-2054-0f5642556980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22d97980-ac13-fa68-2054-0f5642556980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{df8aa49a-0dc6-25c9-be70-e576513c0c8c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df8aa49a-0dc6-25c9-be70-e576513c0c8c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
